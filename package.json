@@ -15,9 +15,6 @@
   "scripts": {
     "test": "xo && ava"
   },
-  "files": [
-    "index.js"
-  ],
   "keywords": [
     ""
   ],
